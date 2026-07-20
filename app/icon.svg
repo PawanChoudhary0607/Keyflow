@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>KeyFlow</title>
+  <!-- Flow's dark background with its teal typing-cursor mark. -->
+  <rect width="64" height="64" rx="14" fill="#0b0f14"/>
+  <path d="M20 15h8v14l14-14h10L35.5 32 53 49H42L28 35v14h-8z" fill="#41ddc2"/>
+  <path d="M20 15h8v34h-8z" fill="#a9f7e9" opacity=".35"/>
+</svg>
