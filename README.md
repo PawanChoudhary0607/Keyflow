@@ -17,7 +17,7 @@ A fast, minimal, local-first typing speed test.
 
 <br><br>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-visit-2bb7a3?style=for-the-badge)]([https://keyflow-tau.vercel.app/])
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-visit-2bb7a3?style=for-the-badge)](https://keyflow-tau.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PawanChoudhary0607/KeyFlow)
 [![Report Bug](https://img.shields.io/badge/Report-bug-b3261e?style=for-the-badge)](https://github.com/PawanChoudhary0607/KeyFlow/issues/new?template=bug_report.md)
 [![Request Feature](https://img.shields.io/badge/Request-feature-6d5bd0?style=for-the-badge)](https://github.com/PawanChoudhary0607/KeyFlow/issues/new?template=feature_request.md)
