@@ -287,7 +287,7 @@ Apache License 2.0 — see
 **Pawan Choudhary**
 
 - GitHub: [PawanChoudhary0607](https://github.com/PawanChoudhary0607)
-- LinkedIn: [Pawan Choudhary](www.linkedin.com/in/pawan-choudhary-a61a61383)
+- LinkedIn: [Pawan Choudhary](https://www.linkedin.com/in/pawan-choudhary-a61a61383)
 - Portfolio:[Pawan Choudhary](https://pawanchoudhary.in/)
 
 <div align="right"><a href="#readme-top">Back to top</a></div>
