@@ -286,9 +286,9 @@ Apache License 2.0 — see
 
 **Pawan Choudhary**
 
-- GitHub: [@PawanChoudhary0607](https://github.com/PawanChoudhary0607)
-- LinkedIn: `add your LinkedIn URL here`
-- Portfolio: `add your portfolio URL here`
+- GitHub: [PawanChoudhary0607](https://github.com/PawanChoudhary0607)
+- LinkedIn: [Pawan Choudhary](www.linkedin.com/in/pawan-choudhary-a61a61383)
+- Portfolio:[Pawan Choudhary](https://x.com/Choud46324Pawan)
 
 <div align="right"><a href="#readme-top">Back to top</a></div>
 
